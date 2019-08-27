@@ -45,11 +45,7 @@ export class AlltasksComponent implements OnInit {
     new status(6,'system testing completed')
   ];
 
-  // inpro:Task[]=[];
-  // dev:Task[]=[];
-  // readyforQA:Task[]=[];
-  // readyforST:Task[]=[];
-  // Stcomplete:Task[]=[];
+
 
 
   constructor(private fb:FormBuilder) { }
